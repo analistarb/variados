@@ -1,0 +1,14 @@
+program Projeto;
+
+uses
+  Forms,
+  uModulo in 'uModulo.pas' {frmDados},
+  uLado in 'uLado.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TfrmDados, frmDados);
+  Application.Run;
+end.

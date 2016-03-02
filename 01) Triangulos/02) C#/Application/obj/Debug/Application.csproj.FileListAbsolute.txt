@@ -1,0 +1,43 @@
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\obj\Debug\UI.Windows.frmCadastro.resources
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\Application\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Nova pasta\Application\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Nova pasta\Application\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Nova pasta\Application\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\UI.Windows.frmDados.resources
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Nova pasta\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\UI.Windows.frmDados.resources
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Pitagoras\01) C#\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\obj\Debug\UI.Windows.frmDados.resources
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Pitagoras\02) C#\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\UI.Windows.frmDados.resources
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\obj\Debug\Application.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Triangulos\02) C#\Application\bin\Debug\UI.Windows.pdb

@@ -1,0 +1,38 @@
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\obj\Debug\UI.Windows.frmCadastro.resources
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Aplicacao.dll
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Dominio.dll
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Repositorio.dll
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Aplicacao.pdb
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Dominio.pdb
+C:\Users\Workstation\Desktop\09) CRUD Completo C#\Application\UI.Windows\bin\Debug\Repositorio.pdb
+G:\Workstation\Documentos\+Atualização Mercado de Trabalho\02) Documentos\01) ASP.NET\04) Exercitando\01) CRUD Completo (Forms)\05) CRUD Completo (Forms)\01) C#\Application\UI.Windows\bin\Debug\UI.Windows.exe.config
+G:\Workstation\Documentos\+Atualização Mercado de Trabalho\02) Documentos\01) ASP.NET\04) Exercitando\01) CRUD Completo (Forms)\05) CRUD Completo (Forms)\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.exe
+G:\Workstation\Documentos\+Atualização Mercado de Trabalho\02) Documentos\01) ASP.NET\04) Exercitando\01) CRUD Completo (Forms)\05) CRUD Completo (Forms)\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.frmCadastro.resources
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\vazio_2\01) C#\Application\UI.Windows\obj\Debug\UI.Windows.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\bin\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\bin\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\obj\Debug\UI.Windows.frmCadastro.resources
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\obj\Debug\UI.Windows.Properties.Resources.resources
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\obj\Debug\UI.Windows.csproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\02) Tentando\Application\UI.Windows\obj\Debug\UI.Windows.pdb
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\UI.Windows\bin\Debug\UI.Windows.exe.config
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\UI.Windows\obj\Debug\UI.Windows.exe
+C:\Users\Workstation\Desktop\Projeto Vazio Funcionando\03) Limpando_2\Application\UI.Windows\obj\Debug\UI.Windows.pdb

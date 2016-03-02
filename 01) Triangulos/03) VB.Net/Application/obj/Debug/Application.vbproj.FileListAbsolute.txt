@@ -1,0 +1,30 @@
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\bin\Debug\Application.exe.config
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\bin\Debug\Application.exe
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\bin\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\bin\Debug\Application.xml
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.frmCadastro.resources
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.exe
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\Nova pasta (3)\Application\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\bin\Debug\Application.exe.config
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.exe
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\bin\Debug\Application.exe
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\bin\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\bin\Debug\Application.xml
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.frmCadastro.resources
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\Pitagoras\03) VB.Net\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\bin\Debug\Application.exe.config
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.exe
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.frmCadastro.resources
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\bin\Debug\Application.exe
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\bin\Debug\Application.pdb
+C:\Users\Workstation\Desktop\Triangulos\03) VB.Net\Application\bin\Debug\Application.xml
